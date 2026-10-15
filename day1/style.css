@@ -1,0 +1,21 @@
+*{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#main-box{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
